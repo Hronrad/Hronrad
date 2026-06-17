@@ -26,10 +26,10 @@
 
 ## Badges
 
-![Nanjing University](https://img.shields.io/badge/Nanjing%20University-Postgraduate-58a6ff?style=for-the-badge)
-![Quantum Information](https://img.shields.io/badge/Quantum%20Information-Research-8A2BE2?style=for-the-badge)
-![Quantum Computation](https://img.shields.io/badge/Quantum%20Computation-Focus-2ea043?style=for-the-badge)
-![Game Making](https://img.shields.io/badge/Game%20Making-Interest-f0883e?style=for-the-badge)
+![Nanjing University](https://img.shields.io/static/v1?label=Nanjing%20University&message=Postgraduate&color=58a6ff&style=for-the-badge)
+![Quantum Information](https://img.shields.io/static/v1?label=Quantum%20Information&message=Research&color=8A2BE2&style=for-the-badge)
+![Quantum Computation](https://img.shields.io/static/v1?label=Quantum%20Computation&message=Focus&color=2ea043&style=for-the-badge)
+![Game Making](https://img.shields.io/static/v1?label=Game%20Making&message=Interest&color=f0883e&style=for-the-badge)
 
 ## Activity Graph
 
