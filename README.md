@@ -3,6 +3,9 @@
 ![Nanjing University](https://img.shields.io/static/v1?label=Nanjing%20University&message=Postgraduate&color=58a6ff&style=for-the-badge)
 ![Quantum Information](https://img.shields.io/static/v1?label=Quantum%20Information&message=Research&color=8A2BE2&style=for-the-badge)
 
-Personal Website: [Hronrad's Space](https://hronrad.cn) hronrad.cn
+Personal Website: [Hronrad's Space](https://hronrad.cn)  (hronrad.cn)
+
 [![Rainbow Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=Hronrad&width=520&height=140)](https://github.com/Akshay090/svg-banners)
 
+支持我 Support me:
+[我的爱发电主页](https://afdian.com/a/hronrad) 
